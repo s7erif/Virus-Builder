@@ -127,7 +127,7 @@ def builder():
         sprint(ran + "\nPreparing...")
         call()
     elif int(choice) > 20 and int(choice) <= 25:
-        sprint(g + "To buy premium viruses, contact Telegram @coding_memz. ")
+        sprint(g + "Call Me to buy  . ")
 
     else:
         sprint(r + "Successfully typed INVALID OPTION! ")
